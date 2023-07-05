@@ -1,0 +1,15 @@
+names:
+- boxer_1
+- boxer_2
+- gloves_1
+- gloves_2
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: progress
+  url: https://universe.roboflow.com/progress-report/progress/dataset/2
+  version: 2
+  workspace: progress-report
+test: /home/aali/Documents/ece501/project/datasets/test/images
+train: /home/aali/Documents/ece501/project/progress--2/train/images
+val: /home/aali/Documents/ece501/project/progress--2/valid/images
